@@ -393,7 +393,7 @@ button {
 
 .footer-bg {
 	height: 300px;
-	background: linear-gradient(rgba(255, 255, 255, .5), rgba(255, 255, 255, .6)), url(images/footer-img.jpg) center/cover no-repeat;
+	background: linear-gradient(rgba(255, 255, 255, .5), rgba(255, 255, 255, .6)), url(../img/footer-img.jpg) center/cover no-repeat;
 }
 .footer-icons {
 	height: 100%;
